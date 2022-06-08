@@ -1,0 +1,22 @@
+@media only screen and (max-width:1154px){
+    .header__middle{
+        display: none;
+    }
+    .nav__link_forres{
+        display: block;
+    }
+    .btn{
+        flex-basis: 80%;
+    }
+}
+@media only screen and (max-width:620px){
+    .btn{
+        flex-basis: 80%;
+        
+    }
+    .btn__secondary{
+        margin-top: 0.7rem;
+    }
+
+}
+

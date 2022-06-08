@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.footer ul{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.footer ul li{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    margin: 20px;
+}
+.link__footer
+{
+
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+
+
+
+
